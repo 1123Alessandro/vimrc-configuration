@@ -1,0 +1,4 @@
+to convert _vimrc to a linux compatible format, open vim, then type:
+
+:e ++ff=dos
+:set ff=unix
